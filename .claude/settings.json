@@ -6,7 +6,8 @@
       "Bash(echo \"App launched \\(PID $!\\)\")",
       "Bash(pkill -f collision_detector.py)",
       "Bash(python3 -m venv .venv)",
-      "Read(//usr/bin/**)"
+      "Read(//usr/bin/**)",
+      "Bash(chmod +x /home/river/companies/yo/desarrollo/proyectos/evaluaciones_tool/build_ubuntu.sh)"
     ]
   }
 }
