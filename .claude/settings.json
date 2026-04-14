@@ -7,7 +7,9 @@
       "Bash(pkill -f collision_detector.py)",
       "Bash(python3 -m venv .venv)",
       "Read(//usr/bin/**)",
-      "Bash(chmod +x /home/river/companies/yo/desarrollo/proyectos/evaluaciones_tool/build_ubuntu.sh)"
+      "Bash(chmod +x /home/river/companies/yo/desarrollo/proyectos/evaluaciones_tool/build_ubuntu.sh)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)"
     ]
   }
 }
