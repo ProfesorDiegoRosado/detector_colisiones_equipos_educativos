@@ -1,0 +1,1344 @@
+[
+  {
+    "level": "1º de E.S.O.",
+    "groups": {
+      "A": {
+        "teachers": [
+          {
+            "name": "Amat Pinilla, David",
+            "subject": [
+              "Biología y Geología"
+            ]
+          },
+          {
+            "name": "Carbajal Peláez, Victoria",
+            "subject": [
+              "Oratoria y Debate"
+            ]
+          },
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Geografía e Historia",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Cerezo Palomino, María de las Mercede",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Fernández García, Ana Belén",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "García Gómez, Álvaro",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Geografía e Historia",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "López Lorenzo, David",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Losada Berlanga, María Carmen",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Manceras Portales, Juan Antonio",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "Martín Mármol, Remedios",
+            "subject": [
+              "Área Lingüística de carácter transversal"
+            ]
+          },
+          {
+            "name": "Robles Aguilar, Cristina",
+            "subject": [
+              "Educación Plástica, Visual y Audiovisual"
+            ]
+          },
+          {
+            "name": "Rodrigue ., Jean Marc",
+            "subject": [
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Ruiz Granados, Rosario María",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Torres Ruiz, Ricardo",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "B": {
+        "teachers": [
+          {
+            "name": "Amat Pinilla, David",
+            "subject": [
+              "Biología y Geología"
+            ]
+          },
+          {
+            "name": "Cablat ., Franck Xavier Lucien",
+            "subject": [
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "Fernández García, Ana Belén",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "García Gómez, Álvaro",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "García Rodríguez, Celia",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "López Lorenzo, David",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Losada Berlanga, María Carmen",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Mármol, Remedios",
+            "subject": [
+              "Área Lingüística de carácter transversal"
+            ]
+          },
+          {
+            "name": "Robles Aguilar, Cristina",
+            "subject": [
+              "Educación Plástica, Visual y Audiovisual"
+            ]
+          },
+          {
+            "name": "Rodríguez Córdoba, Adrián Miguel",
+            "subject": [
+              "Geografía e Historia",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Ruiz Granados, Rosario María",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Torres Ruiz, Ricardo",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "C": {
+        "teachers": [
+          {
+            "name": "Amat Pinilla, David",
+            "subject": [
+              "Biología y Geología",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Carbajal Peláez, Victoria",
+            "subject": [
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "Gosalvez Olmo, Joaquín Jesús",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "López Lorenzo, David",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Losada Berlanga, María Carmen",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Mármol, Remedios",
+            "subject": [
+              "Área Lingüística de carácter transversal"
+            ]
+          },
+          {
+            "name": "Martínez Ordóñez, Yolanda",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Mogio Recio, Silvia",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Rama Serrano, Elena",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Robles Aguilar, Cristina",
+            "subject": [
+              "Educación Plástica, Visual y Audiovisual"
+            ]
+          },
+          {
+            "name": "Rodríguez Córdoba, Adrián Miguel",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Romero Algaba, Andrés",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Torres Ruiz, Ricardo",
+            "subject": [
+              "Inglés",
+              "Proyecto Interdisciplinar 1"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "D": {
+        "teachers": [
+          {
+            "name": "Amat Pinilla, David",
+            "subject": [
+              "Atención Educativa",
+              "Biología y Geología"
+            ]
+          },
+          {
+            "name": "Cablat ., Franck Xavier Lucien",
+            "subject": [
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Carbajal Peláez, Victoria",
+            "subject": [
+              "Oratoria y Debate"
+            ]
+          },
+          {
+            "name": "García Rodríguez, Patricia",
+            "subject": [
+              "Proyecto Interdisciplinar 1"
+            ]
+          },
+          {
+            "name": "Gosalvez Olmo, Joaquín Jesús",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Losada Berlanga, María Carmen",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Mármol, Remedios",
+            "subject": [
+              "Área Lingüística de carácter transversal"
+            ]
+          },
+          {
+            "name": "Miranda García, Evencio Blas",
+            "subject": [
+              "Inglés",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Mogio Recio, Silvia",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Ortega Alcántara, Leonor María",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Robles Aguilar, Cristina",
+            "subject": [
+              "Educación Plástica, Visual y Audiovisual"
+            ]
+          },
+          {
+            "name": "Rodríguez Córdoba, Adrián Miguel",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Romero Algaba, Andrés",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Ruiz Sánchez, José Antonio",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "level": "1º de Bachillerato (Ciencias y Tecnología)",
+    "groups": {
+      "A": {
+        "teachers": [
+          {
+            "name": "Gallego Reyes, María Esther",
+            "subject": [
+              "Materia de Diseño Propio I"
+            ]
+          },
+          {
+            "name": "García Rodríguez, Patricia",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Gosalvez Olmo, Joaquín Jesús",
+            "subject": [
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Luque López, Juan Carlos",
+            "subject": [
+              "Física y Química"
+            ]
+          },
+          {
+            "name": "Manceras Portales, Juan Antonio",
+            "subject": [
+              "Creación Digital y Pensamiento Computacional"
+            ]
+          },
+          {
+            "name": "Reyes Rodríguez, Diego",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Romero Algaba, Andrés",
+            "subject": [
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Ruiz Ruiz, Isabel",
+            "subject": [
+              "Anatomía Aplicada",
+              "Biología, Geología y Ciencias Ambientales"
+            ]
+          },
+          {
+            "name": "Ruiz Sánchez, José Antonio",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Vargas Porras, María Dolores",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          }
+        ]
+      },
+      "B": {
+        "teachers": [
+          {
+            "name": "Córdoba Cañizares, Zoraida Isabel",
+            "subject": [
+              "Dibujo Técnico"
+            ]
+          },
+          {
+            "name": "Escorza Doblas, Francisca",
+            "subject": [
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Filosofía"
+            ]
+          },
+          {
+            "name": "Miranda García, Evencio Blas",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Robredo Pérez, Valeriano",
+            "subject": [
+              "Tecnología e Ingeniería (Opt)"
+            ]
+          },
+          {
+            "name": "Ruiz Granados, Rosario María",
+            "subject": [
+              "Educación Física",
+              "Tutoría con alumnado (Bachillerato/Formac. Profes.)"
+            ]
+          },
+          {
+            "name": "Ruiz Morales, Sandra",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Torres Zaguirre, Ana Belén",
+            "subject": [
+              "Física y Química"
+            ]
+          },
+          {
+            "name": "Vargas Porras, María Dolores",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "level": "1º de Bachillerato (Humanidades y Ciencias Sociales)",
+    "groups": {
+      "B": {
+        "teachers": [
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Hist. Mundo Contemporáneo"
+            ]
+          },
+          {
+            "name": "Castillo Asencio, José María",
+            "subject": [
+              "Griego (Opt)",
+              "Latín"
+            ]
+          },
+          {
+            "name": "Escorza Doblas, Francisca",
+            "subject": [
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Filosofía"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Hist. Mundo Contemporáneo"
+            ]
+          },
+          {
+            "name": "Miranda García, Evencio Blas",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Ortega Alcántara, Leonor María",
+            "subject": [
+              "Literatura Universal"
+            ]
+          },
+          {
+            "name": "Ruiz Granados, Rosario María",
+            "subject": [
+              "Educación Física",
+              "Tutoría con alumnado (Bachillerato/Formac. Profes.)"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Vargas Porras, María Dolores",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          }
+        ]
+      },
+      "C": {
+        "teachers": [
+          {
+            "name": "Cerezo Palomino, María de las Mercede",
+            "subject": [
+              "Matemát. Aplic. a Cienc. Soc."
+            ]
+          },
+          {
+            "name": "García Gómez, Álvaro",
+            "subject": [
+              "Lengua Castellana y Literatura",
+              "Tutoría con alumnado (Bachillerato/Formac. Profes.)"
+            ]
+          },
+          {
+            "name": "Gosalvez Olmo, Joaquín Jesús",
+            "subject": [
+              "Educación Física",
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Filosofía"
+            ]
+          },
+          {
+            "name": "Mogio Recio, Silvia",
+            "subject": [
+              "Materia de Diseño Propio II"
+            ]
+          },
+          {
+            "name": "Muñoz Bou, Manuela",
+            "subject": [
+              "Materia de Diseño Propio II"
+            ]
+          },
+          {
+            "name": "Pérez Muñoz, Pablo",
+            "subject": [
+              "Tecnologías Información Comun."
+            ]
+          },
+          {
+            "name": "Rodríguez Córdoba, Adrián Miguel",
+            "subject": [
+              "Hist. Mundo Contemporáneo"
+            ]
+          },
+          {
+            "name": "Romero Algaba, Andrés",
+            "subject": [
+              "Educación Física",
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Ruiz Rodríguez, Pedro",
+            "subject": [
+              "Inglés",
+              "Materia de Diseño Propio I"
+            ]
+          },
+          {
+            "name": "Sánchez Porras, José Manuel",
+            "subject": [
+              "Economía"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          }
+        ]
+      },
+      "D": {
+        "teachers": [
+          {
+            "name": "Bocinos Rioboo, Almudena",
+            "subject": [
+              "Matemát. Aplic. a Cienc. Soc."
+            ]
+          },
+          {
+            "name": "Cablat ., Franck Xavier Lucien",
+            "subject": [
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Hist. Mundo Contemporáneo"
+            ]
+          },
+          {
+            "name": "Escorza Doblas, Francisca",
+            "subject": [
+              "Patrimonio cultural y artístico de Andalucía"
+            ]
+          },
+          {
+            "name": "Gosalvez Olmo, Joaquín Jesús",
+            "subject": [
+              "Educación Física",
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Filosofía"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Hist. Mundo Contemporáneo"
+            ]
+          },
+          {
+            "name": "Martínez Ordóñez, Yolanda",
+            "subject": [
+              "Literatura Universal"
+            ]
+          },
+          {
+            "name": "Mogio Recio, Silvia",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Muñoz Bou, Manuela",
+            "subject": [
+              "Materia de Diseño Propio II"
+            ]
+          },
+          {
+            "name": "Pérez Muñoz, Pablo",
+            "subject": [
+              "Tecnologías Información Comun."
+            ]
+          },
+          {
+            "name": "Romero Algaba, Andrés",
+            "subject": [
+              "Educación Física",
+              "Proyectos Transversales de Educación en Valores"
+            ]
+          },
+          {
+            "name": "Ruiz Rodríguez, Pedro",
+            "subject": [
+              "Inglés",
+              "Materia de Diseño Propio I"
+            ]
+          },
+          {
+            "name": "Sánchez Porras, José Manuel",
+            "subject": [
+              "Economía",
+              "Tutoría con alumnado (Bachillerato/Formac. Profes.)"
+            ]
+          },
+          {
+            "name": "Santos Mañanes,Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "level": "2º de E.S.O.",
+    "groups": {
+      "A": {
+        "teachers": [
+          {
+            "name": "Abujeta Soria, Susana",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Amat Pinilla, David",
+            "subject": [
+              "Física y Química"
+            ]
+          },
+          {
+            "name": "Cano Requejo, Lorena",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Carbajal Peláez, Victoria",
+            "subject": [
+              "Oratoria y Debate"
+            ]
+          },
+          {
+            "name": "Carmona Rubio, José",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Fernández García, Ana Belén",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Gallego Reyes, María Esther",
+            "subject": [
+              "Inglés",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Educación en Valores Cívicos y Éticos"
+            ]
+          },
+          {
+            "name": "Mariño Marcos, María Ester",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Padilla García, Esther",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "Pérez Muñoz, Pablo",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Rama Serrano, Elena",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Robredo Pérez, Valeriano",
+            "subject": [
+              "Tecnología y Digitalización"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "B": {
+        "teachers": [
+          {
+            "name": "Blanco Castaño, Luis Darío",
+            "subject": [
+              "Tecnología y Digitalización"
+            ]
+          },
+          {
+            "name": "Cano Requejo, Lorena",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Carmona Rubio, José",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Castellano Albors, Miriam",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "García Gómez, Álvaro",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "García Rodríguez, Patricia",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Herranz Gutiérrez, Cristina",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Mariño Marcos, María Ester",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Gordillo, Elisabet",
+            "subject": [
+              "Educación en Valores Cívicos y Éticos"
+            ]
+          },
+          {
+            "name": "Rama Serrano, Elena",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Rosado Fuentes, Diego Cándido",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Ruiz Ruiz, Isabel",
+            "subject": [
+              "Atención Educativa",
+              "Física y Química",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "C": {
+        "teachers": [
+          {
+            "name": "Bernal Castañeda, Sergio",
+            "subject": [
+              "Inglés",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Blanco Castaño, Luis Darío",
+            "subject": [
+              "Tecnología y Digitalización"
+            ]
+          },
+          {
+            "name": "Cano Requejo, Lorena",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Carbajal Peláez, Victoria",
+            "subject": [
+              "Atención Educativa",
+              "Francés (Segundo Idioma)"
+            ]
+          },
+          {
+            "name": "Carmona Rubio, José",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "García Rodríguez, Patricia",
+            "subject": [
+              "Oratoria y Debate"
+            ]
+          },
+          {
+            "name": "Herrada Castro, Susana",
+            "subject": [
+              "Educación en Valores Cívicos y Éticos"
+            ]
+          },
+          {
+            "name": "Mariño Marcos, María Ester",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Gordillo, Elisabet",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Mogio Recio, Silvia",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Romero Luque, Ana Belén",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Ruiz Ruiz, Isabel",
+            "subject": [
+              "Física y Química"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "D": {
+        "teachers": [
+          {
+            "name": "Blanco Castaño, Luis Darío",
+            "subject": [
+              "Tecnología y Digitalización"
+            ]
+          },
+          {
+            "name": "Cano Requejo, Lorena",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Carmona Rubio, José",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Córdoba Cañizares, Zoraida Isabel",
+            "subject": [
+              "Tutoría de atención personalizada al alumnado y familia (ESO)"
+            ]
+          },
+          {
+            "name": "Mariño Marcos, María Ester",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Gordillo, Elisabet",
+            "subject": [
+              "Educación en Valores Cívicos y Éticos",
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Martín Iglesias, Joaquín P.",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Ortega Alcántara, Leonor María",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Robles Aguilar, Cristina",
+            "subject": [
+              "Proyecto de Educación Plástica y Audiovisual"
+            ]
+          },
+          {
+            "name": "Romero Luque, Ana Belén",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Ruiz Rodríguez, Pedro",
+            "subject": [
+              "Atención Educativa"
+            ]
+          },
+          {
+            "name": "Santos Mañanes, Javier",
+            "subject": [
+              "Religión Católica"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Torres Zaguirre, Ana Belén",
+            "subject": [
+              "Física y Química",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      },
+      "E": {
+        "teachers": [
+          {
+            "name": "Abujeta Soria, Susana",
+            "subject": [
+              "Geografía e Historia"
+            ]
+          },
+          {
+            "name": "Blanco Castaño, Luis Darío",
+            "subject": [
+              "Tecnología y Digitalización"
+            ]
+          },
+          {
+            "name": "Cano Requejo, Lorena",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Carmona Rubio, José",
+            "subject": [
+              "Educación Física"
+            ]
+          },
+          {
+            "name": "Mariño Marcos, María Ester",
+            "subject": [
+              "Pedagogía Terapéutica"
+            ]
+          },
+          {
+            "name": "Martín Gordillo, Elisabet",
+            "subject": [
+              "Educación en Valores Cívicos y Éticos"
+            ]
+          },
+          {
+            "name": "Martín Iglesias, Joaquín P.",
+            "subject": [
+              "Inglés"
+            ]
+          },
+          {
+            "name": "Ortega Alcántara, Leonor María",
+            "subject": [
+              "Lengua Castellana y Literatura"
+            ]
+          },
+          {
+            "name": "Padilla García, Esther",
+            "subject": [
+              "Proyecto Interdisciplinar 1"
+            ]
+          },
+          {
+            "name": "Pérez Muñoz, Pablo",
+            "subject": [
+              "Computación y Robótica"
+            ]
+          },
+          {
+            "name": "Ruiz del Castillo, Sonia Perpetua",
+            "subject": [
+              "Atención Educativa",
+              "Física y Química",
+              "Tutoría con alumnos (ESO)",
+              "Tutoría de atención personalizada al alumnado y familia (ESO)",
+              "Tutoría para tareas administrativas"
+            ]
+          },
+          {
+            "name": "Ruiz Morales, Sandra",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Sevilla Rodríguez, María Rosa",
+            "subject": [
+              "Matemáticas"
+            ]
+          },
+          {
+            "name": "Utrilla Almagro, Jerónimo",
+            "subject": [
+              "Música"
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

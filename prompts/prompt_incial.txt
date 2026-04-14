@@ -1,0 +1,172 @@
+Claude Cowork initial prompt:
+I have a txt format file ("EQUIPOS EDUCATIVOS EVALUACIO ORDINARIA.docx.txt") with data of teaching groups and teachers.
+The data is in blocks of 4 lines having:
+* First line: Teachers name ("﻿Amat Pinilla, David")
+* Second line: Subject/ name/s ("Profesorado (Biología y Geología)") where subject name is in parenthesis "Biología y Geología". There can be more than one subject. This is why "subject" is a list in the json format.
+* Third line: Level ("1º de E.S.O.") meaning first level of ESO
+* Forth line: Group ("1ºESO_B") where the group is just "B".
+I want to read the whole file, process the data and generate a json file with the right format being:
+```
+[
+  {
+    "level": "1º de E.S.O.",
+    "groups": [
+        "B": {
+             "teachers": [
+                  {
+                      "name": "Amat Pinilla, David",
+                      "subject": ["Biología y Geología"]
+                  },
+                  ...
+             ]
+             },
+         "A": {
+             "teachers": [ ... ]
+             }
+             ...
+         ]
+   },
+   ...
+]
+```
+A teacher may have several subjects to the same group and it will be shown as:
+```
+Ruiz del Castillo, Sonia Perpetua
+Profesorado (Atención Educativa
+- Física y Química
+- Tutoría con alumnos (ESO)
+- Tutoría de atención personalizada al alumnado y familia (ESO)
+- Tutoría para tareas administrativas)
+2º de E.S.O.
+2ºESO_E
+```
+In this case the output will be:
+```
+[
+  {
+    "level": "2º de E.S.O.",
+    "groups": [
+        "E": {
+             "teachers": [
+                  {
+                      "name": "Ruiz del Castillo, Sonia Perpetua",
+                      "subject": ["Atención Educativa", "Física y Química", "Tutoría con alumnos (ESO)", "Tutoría de atención personalizada al alumnado y familia (ESO)", "Tutoría para tareas administrativas"]
+                  },
+                  ...
+             ]
+             },
+         "A": {
+             "teachers": [ ... ]
+             },
+             ...
+         ]
+   },
+   ...
+]
+```
+Let's see an example.
+Given the following list of teachers in txt format:
+```
+﻿Amat Pinilla, David
+Profesorado (Biología y Geología)
+1º de E.S.O.
+1ºESO_B
+  
+Cablat ., Franck Xavier Lucien
+Profesorado (Francés (Segundo Idioma))
+1º de E.S.O.
+1ºESO_B
+Amat Pinilla, David
+Profesorado (Biología y Geología)
+1º de E.S.O.
+1ºESO_A
+  
+Carbajal Peláez, Victoria
+Profesorado (Oratoria y Debate)
+1º de E.S.O.
+1ºESO_A
+Abujeta Soria, Susana
+Profesorado (Geografía e Historia)
+2º de E.S.O.
+2ºESO_A
+  
+Amat Pinilla, David
+Profesorado (Física y Química)
+2º de E.S.O.
+2ºESO_A
+  
+Blanco Castaño, Luis Darío
+Profesorado (Tecnología y Digitalización)
+2º de E.S.O.
+2ºESO_B
+  
+Cano Requejo, Lorena
+Profesorado (Pedagogía Terapéutica)
+2º de E.S.O.
+2ºESO_B
+```
+The output in json format will be:
+```
+[
+  {
+    "level": "1º de E.S.O.",
+    "groups": [
+        "B": {
+             "teachers": [
+                  {
+                      "name": "Amat Pinilla, David",
+                      "subject": ["Biología y Geología"]
+                  },
+                  {
+                      "name": "Cablat ., Franck Xavier Lucien",
+                      "subject": ["Francés (Segundo Idioma)"]
+                  }
+               ]
+             },
+         "A": {
+             "teachers": [
+                  {
+                      "name": "Amat Pinilla, David",
+                      "subject": ["Biología y Geología"]
+                  },
+                  {
+                      "name": "Carbajal Peláez, Victoria",
+                      "subject": ["Oratoria y Debate"]
+                  }
+               ]
+             }
+         ]
+   },
+  {
+    "level": "2º de E.S.O.",
+    "groups": [
+        "A": {
+             "teachers": [
+                  {
+                      "name": "Abujeta Soria, Susana",
+                      "subject": ["Geografía e Historia"]
+                  },
+                  {
+                      "name": "Amat Pinilla, David",
+                      "subject": ["Física y Química"]
+                  }
+               ]
+             },
+         "B": {
+             "teachers": [
+                  {
+                      "name": "Blanco Castaño, Luis Darío",
+                      "subject": ["Tecnología y Digitalización"]
+                  },
+                  {
+                      "name": "Cano Requejo, Lorena",
+                      "subject": ["Pedagogía Terapéutica"]
+                  }
+               ]
+             }
+         ]
+   }
+]
+```
+I want to generate the json file from the txt file.
+Let me know if you think there is something wrong or missing as well.

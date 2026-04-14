@@ -1,0 +1,13 @@
+I have a json input file in json format named "equipos_educativos.json" at input folder.
+
+I would like to create python program with UI to load the data store in the json file (when clicked on a load button it will be shown a file browser and the data will be loaded) and create a list of collisions between teachers and a combination of groups and levels.
+Meaning if a level/group (e.g.: "1º de E.S.O."/"A") has the teacher "David Amat" and "1º de E.S.O."/"B" has the teacher "David Amat" too, then there is a collision between "David Amat" and "1º de E.S.O."/"A" and "1º de E.S.O."/"B", that means there is a collision between  "1º de E.S.O."/"A" and "1º de E.S.O."/"B" due to "David Amat" being a shared teacher.
+That collision must be listed as 1 grade collision between "1º de E.S.O."/"A" and "1º de E.S.O."/"B" due to "David Amat".
+
+The output of the program must be a list of collisions between groups and levels, grouped by numbers of collisions from less collisions to more collisions, where the first group is "No collisions Group", the second group "1 collision Group", so on so forth.
+For each collision there is going to be a element of the list showing the level/group collisions (e.g.: "1º de E.S.O."/"A" and "1º de E.S.O."/"B"). If we click on the element  "1º de E.S.O."/"A" and "1º de E.S.O."/"B", on the right side it is going to be a text panel where, for each line there will be a teacher that is provoking the collision. So, if there are 3 teachers provoking the collision, there will be 3 lines in the text panel, each line with a teacher that is provoking the collision.  
+
+
+
+Let me know if you think there is something wrong or missing, and you need more information to build the app.
+

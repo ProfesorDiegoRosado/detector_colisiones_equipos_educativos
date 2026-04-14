@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "Bash(DISPLAY=:0 python3 collision_detector.py)",
+      "Bash(echo \"App launched \\(PID $!\\)\")",
+      "Bash(pkill -f collision_detector.py)",
+      "Bash(python3 -m venv .venv)",
+      "Read(//usr/bin/**)"
+    ]
+  }
+}
